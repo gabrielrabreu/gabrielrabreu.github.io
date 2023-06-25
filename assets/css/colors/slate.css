@@ -1,0 +1,129 @@
+.new .navbar-toggler .icon, .new .navbar-toggler .icon::after, .new .navbar-toggler .icon::before {
+  background-color: #f6c; }
+
+.white-vertion .page-item.active .page-link {
+  color: #f6c; }
+
+.dark-vertion .page-item.active .page-link {
+  color: #f6c; }
+
+.gra-header .navbar-nav li a:hover {
+  color: #f6c; }
+
+.gra-experince .gra-education-deatils .gra-education-item h4 a {
+  color: #f6c; }
+
+.gra-work .gra-experience-deatils .gra-work-item h4 a {
+  color: #f6c; }
+
+.gra-home-2 .gra-header-info ul.gra-home-contact li:hover .fa {
+  color: #f6c; }
+
+.gra-home .gra-header-info .gra-promo span {
+  background-color: #f6c; }
+.gra-home .gra-header-info ul li:hover .fa {
+  color: #f6c; }
+
+.gra-about-tag ul li span {
+  border: 1px solid #f6c; }
+  .gra-about-tag ul li span:hover {
+    background-color: #f6c; }
+
+.gra-progress path:nth-child(2) {
+  stroke: #f6c; }
+
+.candidatos .parcial .percentagem {
+  background: #f6c; }
+
+.gra-experince .gra-education-deatils .gra-education-item .gra-eduyear {
+  color: #f6c; }
+
+.gra-work .gra-experience-deatils .gra-work-item .gra-eduyear {
+  color: #f6c; }
+
+.portfolio-nav ul li:hover {
+  color: #f6c; }
+.portfolio-nav ul li.active {
+  color: #f6c; }
+
+.gra-pricing .gra-pricing:hover .btn {
+  background-color: #ff4dc4; }
+.gra-pricing .gra-pricing .fa {
+  color: white; }
+.gra-pricing .gra-pricing h5 {
+  color: #f6c; }
+
+.gra-blog .gra-blog-item .blog-inner h2 a {
+  color: #fff; }
+.gra-blog .gra-blog-item .blog-inner a {
+  color: #f6c; }
+.gra-blog .gra-blog-item h2 {
+  color: #f6c; }
+  .gra-blog .gra-blog-item h2 a {
+    color: #f6c; }
+    .gra-blog .gra-blog-item h2 a:hover {
+      color: #ff5cc9; }
+
+.gra-testimonial .gra-client-item img {
+  border: 5px solid #f6c; }
+.gra-testimonial .owl-controls .owl-dots .owl-dot {
+  border: 1px solid #f6c; }
+.gra-testimonial .owl-controls .owl-dots .owl-dot.active {
+  background-color: #f6c; }
+
+.gra-footer-address .gra-address-footer-item .each-icon .fa {
+  border-color: #f6c; }
+
+.old .navbar-collapse {
+  background-color: #f6c; }
+.old .navbar-header .navbar-toggler .icon-bar {
+  background-color: #f6c; }
+.old .navbar-collapse {
+  background-color: #f6c; }
+
+.new .navbar-collapse {
+  background-color: #f6c; }
+.new .navbar-header .navbar-toggler .icon-bar {
+  background-color: #f6c; }
+.new .navbar-collapse {
+  background-color: #f6c; }
+
+.portfolio-nav ul li.current span {
+  border-bottom: 2px solid #f6c; }
+
+.gra-project-gallery .grid-item figure:hover figcaption {
+  background: rgba(255, 102, 204, 0.9); }
+
+.gra-featured-project .gra-featured-item .gra-featured-project-content .project-category {
+  color: #f6c; }
+
+.gra-single-project-slide .owl-controls .owl-dots .owl-dot {
+  border: 1px solid #f6c; }
+.gra-single-project-slide .owl-controls .owl-dots .owl-dot.active {
+  background-color: #f6c; }
+
+.gra-service .gra-service-item a {
+  color: #f6c; }
+
+.gra-pagination .page-link:hover {
+  color: #f6c; }
+
+.gra-author-info .social-icon li a:hover {
+  color: #f6c; }
+
+.gra-blog-category ul li a:hover {
+  color: #f6c; }
+
+.gra-blog-next-prev-post a {
+  color: #f6c; }
+
+.comment-deatils span {
+  color: #f6c; }
+
+.btn.btn-fill {
+  background-color: #f6c; }
+
+.gra-pricing .gra-pricing .fa {
+  color: #f6c; }
+
+/*# sourceMappingURL=slate.css.map */
