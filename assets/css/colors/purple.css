@@ -1,10 +1,10 @@
 .new .navbar-toggler .icon, .new .navbar-toggler .icon::after, .new .navbar-toggler .icon::before {
   background-color: #E91E63; }
 
-.gra-experince .gra-education-deatils .gra-education-item h4 a {
+.gra-experience .gra-education-details .gra-education-item h4 a {
   color: #E91E63; }
 
-.gra-work .gra-experience-deatils .gra-work-item h4 a {
+.gra-work .gra-experience-details .gra-work-item h4 a {
   color: #E91E63; }
 
 .white-vertion .page-item.active .page-link {
@@ -35,10 +35,10 @@
 .candidatos .parcial .percentagem {
   background: #E91E63; }
 
-.gra-experince .gra-education-deatils .gra-education-item .gra-eduyear {
+.gra-experience .gra-education-details .gra-education-item .gra-eduyear {
   color: #E91E63; }
 
-.gra-work .gra-experience-deatils .gra-work-item .gra-eduyear {
+.gra-work .gra-experience-details .gra-work-item .gra-eduyear {
   color: #E91E63; }
 
 .portfolio-nav ul li:hover {
@@ -105,6 +105,9 @@
 .gra-service .gra-service-item a {
   color: #E91E63; }
 
+.gra-roadmap .gra-roadmap-item a {
+  color: #E91E63; }
+
 .gra-pagination .page-link:hover {
   color: #E91E63; }
 
@@ -117,7 +120,7 @@
 .gra-blog-next-prev-post a {
   color: #E91E63; }
 
-.comment-deatils span {
+.comment-details span {
   color: #E91E63; }
 
 .btn.btn-fill {

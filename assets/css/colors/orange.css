@@ -29,10 +29,10 @@
 .candidatos .parcial .percentagem {
   background: #ffa500; }
 
-.gra-experince .gra-education-deatils .gra-education-item .gra-eduyear {
+.gra-experience .gra-education-details .gra-education-item .gra-eduyear {
   color: #ffa500; }
 
-.gra-work .gra-experience-deatils .gra-work-item .gra-eduyear {
+.gra-work .gra-experience-details .gra-work-item .gra-eduyear {
   color: #ffa500; }
 
 .portfolio-nav ul li:hover {
@@ -40,10 +40,10 @@
 .portfolio-nav ul li.active {
   color: #ffa500; }
 
-.gra-experince .gra-education-deatils .gra-education-item h4 a {
+.gra-experience .gra-education-details .gra-education-item h4 a {
   color: #ffa500; }
 
-.gra-work .gra-experience-deatils .gra-work-item h4 a {
+.gra-work .gra-experience-details .gra-work-item h4 a {
   color: #ffa500; }
 
 .gra-pricing .gra-pricing:hover .btn {
@@ -105,6 +105,9 @@
 .gra-service .gra-service-item a {
   color: #ffa500; }
 
+.gra-roadmap .gra-roadmap-item a {
+  color: #ffa500; }
+
 .gra-pagination .page-link:hover {
   color: #ffa500; }
 
@@ -117,7 +120,7 @@
 .gra-blog-next-prev-post a {
   color: #ffa500; }
 
-.comment-deatils span {
+.comment-details span {
   color: #ffa500; }
 
 .btn.btn-fill {

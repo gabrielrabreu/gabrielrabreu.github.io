@@ -10,10 +10,10 @@
 .gra-header .navbar-nav li a:hover {
   color: #f6c; }
 
-.gra-experince .gra-education-deatils .gra-education-item h4 a {
+.gra-experience .gra-education-details .gra-education-item h4 a {
   color: #f6c; }
 
-.gra-work .gra-experience-deatils .gra-work-item h4 a {
+.gra-work .gra-experience-details .gra-work-item h4 a {
   color: #f6c; }
 
 .gra-home-2 .gra-header-info ul.gra-home-contact li:hover .fa {
@@ -35,10 +35,10 @@
 .candidatos .parcial .percentagem {
   background: #f6c; }
 
-.gra-experince .gra-education-deatils .gra-education-item .gra-eduyear {
+.gra-experience .gra-education-details .gra-education-item .gra-eduyear {
   color: #f6c; }
 
-.gra-work .gra-experience-deatils .gra-work-item .gra-eduyear {
+.gra-work .gra-experience-details .gra-work-item .gra-eduyear {
   color: #f6c; }
 
 .portfolio-nav ul li:hover {
@@ -104,6 +104,9 @@
 
 .gra-service .gra-service-item a {
   color: #f6c; }
+  
+.gra-roadmap .gra-roadmap-item a {
+  color: #f6c; }
 
 .gra-pagination .page-link:hover {
   color: #f6c; }
@@ -117,7 +120,7 @@
 .gra-blog-next-prev-post a {
   color: #f6c; }
 
-.comment-deatils span {
+.comment-details span {
   color: #f6c; }
 
 .btn.btn-fill {
