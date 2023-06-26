@@ -1401,6 +1401,21 @@ body {
 .gra-roadmap-modal-img img {
   margin-bottom: 20px; }
 
+  .gra-roadmap-modal .list-group li {
+    margin-bottom: 12px;
+  }
+  
+  .gra-roadmap-modal .list-group-item {
+  }
+  
+  .gra-roadmap-modal .list li {
+    list-style: none;
+    padding: 10px;
+    border: 1px solid #e3dada;
+    margin-top: 12px;
+    border-radius: 5px;
+  }
+
 .mix {
   display: none; }
 
